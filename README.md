@@ -11,7 +11,7 @@ They were so named because they used calcule (Latin for pebbles) to add, subtrac
 
 ## Conventer
 
-Enter your number and it will be converted to Roman numerals.
+This simple Converter can be used to convert Arabic numbers to Roman numerals. Enter the number to the box. You will get the exact representation of the number in Roman Numeral Symbols.
 
 ## What is Roman numerals?
 
