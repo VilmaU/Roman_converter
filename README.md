@@ -1,5 +1,14 @@
 # Conventer to Roman numerals
 
+## Conventer
+
+This simple Converter can be used to convert Arabic numbers to Roman numerals. Enter the number to the box. You will get the exact representation of the number in Roman Numeral Symbols. And conversely, Roman numeral will be converted to Arabic numbers.
+
+## What is Roman numerals?
+
+[Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals)
+
+
 ![RomanAbacus](https://guernseydonkey.com/wp-content/uploads/2014/12/RomanAbacus.jpg)
 
 *A Roman Hand Abacus*
@@ -9,10 +18,4 @@ The Romans were saved that torture. They relied on the Chinese abacus, with pebb
 In fact mathematical operations were performed in Roman times by persons called ‘calculators’. 
 They were so named because they used calcule (Latin for pebbles) to add, subtract, multiply and divide.
 
-## Conventer
 
-This simple Converter can be used to convert Arabic numbers to Roman numerals. Enter the number to the box. You will get the exact representation of the number in Roman Numeral Symbols.
-
-## What is Roman numerals?
-
-[Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals)
