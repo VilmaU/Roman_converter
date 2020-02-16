@@ -3,8 +3,8 @@ from arabic import to_roman
 
 class MyTestCase(unittest.TestCase):
     def test_something(self):
-        res = to_roman(3003)
-        self.assertEqual("MMMIII", res)
+        res = to_roman(3000)
+        self.assertEqual("MMM", res)
 
         # test for 5
         res = to_roman(5)
