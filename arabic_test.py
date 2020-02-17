@@ -6,13 +6,13 @@ class MyTestCase(unittest.TestCase):
         res = to_roman(3000)
         self.assertEqual("MMM", res)
 
-        # test for 5
-        res = to_roman(5)
-        self.assertEqual("V", res)
+        # test for 1976
+        res = to_roman(1976)
+        self.assertEqual("MCMLXXVI", res)
 
-        # test for 100
-        res = to_roman(100)
-        self.assertEqual("C", res)
+        # test for 101
+        res = to_roman(101)
+        self.assertEqual("CI", res)
 
 
 if __name__ == '__main__':

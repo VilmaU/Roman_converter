@@ -7,13 +7,14 @@ class MyTestCase(unittest.TestCase):
         res = to_arabic("CI")
         self.assertEqual(101, res)
 
-        res = to_arabic("MM")
-        self.assertEqual(2000, res)
+        res = to_arabic("XI")
+        self.assertEqual(11, res)
 
-        res = to_arabic("X")
-        self.assertEqual(10, res)
+        res = to_arabic("MMMIII")
+        self.assertEqual(3003, res)
 
-
+        res = to_arabic("DVI")
+        self.assertEqual(506, res)
 
 if __name__ == '__main__':
     unittest.main()
